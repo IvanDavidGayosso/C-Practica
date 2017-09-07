@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 //* puntero
-//& val Memoeria referente
+//& val Memoria de referecia
 int main( ){
 	int *p,i,val;
 	i=100;
